@@ -1,0 +1,55 @@
+body {
+	background-color: black;
+	margin: 5% 10%;
+}
+.tout {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px 10px;
+	align-items: flex-start;
+}
+.P1 {
+	background-color: white;
+	border-radius: 15px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 45%;
+	padding: 0 15px;
+	height: 55%;
+	margin-top: 54px;
+}
+.P1 > img {
+	height: 96px;
+	width: 96px;
+}
+.P2 {
+	background-color: white;
+	border-radius: 15px;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 15px;
+	width: 48%;
+}
+.P3 {
+	background-color: white;
+	border-radius: 15px;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 15px;
+	width: 32%;
+	margin-left: 13%;
+}
+.P4 {
+	background-color: white;
+	border-radius: 15px;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 15px;
+	width: 42%;
+}
+img {
+	margin: 10px;
+}
+h4 {
+	font-weight: 600px;
+}
